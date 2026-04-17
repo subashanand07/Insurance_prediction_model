@@ -1,0 +1,4 @@
+flask
+bz2
+numpy
+pickle5
